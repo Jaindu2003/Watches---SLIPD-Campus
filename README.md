@@ -25,3 +25,7 @@ CSS
 - `Profile`: user (one-to-one), phone, address.
 - `Watch`: name, brand, price, description, image_url.
 - `CartItem`: user (foreign key), watch (foreign key), quantity.
+
+
+HOME PAGE 
+<img width="1840" height="877" alt="Home" src="https://github.com/user-attachments/assets/e4812e51-3a0d-4254-a74c-abe64471d024" />
